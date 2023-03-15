@@ -1,2 +1,3 @@
 # SQL Básico :robot:
-Meu primeiro curso de SQL (Básico)
+
+- Curso: Banco de Dados SQL do Zero ao Avançado + Projetos Reais :book:
