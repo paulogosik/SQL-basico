@@ -2,7 +2,7 @@ USE sakila;
 
 INSERT INTO country
 VALUES
-	(DEFAULT, "Uruguay", '2023-02-15 04:44:00')
+	(DEFAULT, "Uruguay", '2023-02-15 04:44:00');
     
 INSERT INTO city
 VALUES
