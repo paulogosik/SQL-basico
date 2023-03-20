@@ -1,0 +1,9 @@
+USE moitaveiculos;
+
+CREATE TABLE Clients (
+	ID INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    lastName VARCHAR(255) NOT NULL,
+    address VARCHAR(255),
+    PRIMARY KEY (ID)
+)
